@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\bin\Debug\net8.0\Hienthiloichao.exe
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\bin\Debug\net8.0\Hienthiloichao.deps.json
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\bin\Debug\net8.0\Hienthiloichao.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\bin\Debug\net8.0\Hienthiloichao.dll
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\bin\Debug\net8.0\Hienthiloichao.pdb
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.dll
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\refint\Hienthiloichao.dll
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.pdb
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\Hienthiloichao.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\Hienthiloichao\obj\Debug\net8.0\ref\Hienthiloichao.dll
